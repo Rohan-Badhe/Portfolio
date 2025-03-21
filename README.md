@@ -11,7 +11,7 @@
 
 <div align="center">
   <h3>🌟 A modern, responsive portfolio showcasing my journey as a developer 🌟</h3>
-  <a href="[https://rohan-badhe.vercel.app](https://portfolio-ahis.vercel.app/)/">View Live Demo</a>
+  https://portfolio-ahis.vercel.app/
 </div>
 
 <br>
